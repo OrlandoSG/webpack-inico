@@ -2,7 +2,7 @@ import { saludar } from "./js/componentes.js";
 import './style.css';
 
 
-const nombre = 'Karyme la Mejor Amiga';
+const nombre = 'Archivos de webpack';
 
 
 saludar(nombre);
